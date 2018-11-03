@@ -1,2 +1,2 @@
 # Simple Calculator
-Simple Calculator using C
+Simple Calculator using C language
