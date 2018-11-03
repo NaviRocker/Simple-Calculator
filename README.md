@@ -1,2 +1,2 @@
 # Simple Calculator
-Simple Calculator using C la
+Simple Calculator using C l
